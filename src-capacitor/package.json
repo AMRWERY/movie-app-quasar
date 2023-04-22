@@ -1,0 +1,12 @@
+{
+  "name": "movie-app",
+  "version": "0.0.1",
+  "description": "Simple Movie App",
+  "author": "Amr Mohamed",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
